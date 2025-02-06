@@ -17,8 +17,8 @@ Caso o usuário tente enviar um campo vazio, será exibido um alerta solicitando
 
 ### Exibindo resultado ao clicar no botão "Sortear amigo":
 
-![Resultado](assets/resul.png)
+![Resultado](assets/result.png)
 
 ## Redes socias
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanamaria-dev/](https://www.linkedin.com/in/andersonolivio/)) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andelreyy/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonolivio/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andelreyy/) 
